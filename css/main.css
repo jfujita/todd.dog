@@ -1971,7 +1971,7 @@ nav a:hover {
 }
 
 .banner-area .overlay-bg {
-  background: rgba(0, 0, 0, 0.75);
+  background: rgba(0, 0, 0, 0.40);
 }
 
 @media (max-width: 767px) {
@@ -1982,6 +1982,14 @@ nav a:hover {
 
 .banner-content h1 {
   font-size: 60px;
+  font-weight: 600;
+  line-height: 1.2em;
+  margin-bottom: 20px;
+  color: #f5204b;
+}
+
+.logo h1 {
+    font-size: 35px;
   font-weight: 600;
   line-height: 1.2em;
   margin-bottom: 20px;
